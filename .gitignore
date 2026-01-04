@@ -1,0 +1,19 @@
+# Binaries
+main
+*.exe
+*.test
+*.out
+
+# Database Persistence
+*.aof
+gedis
+
+# OS Specific
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Go
+vendor/
